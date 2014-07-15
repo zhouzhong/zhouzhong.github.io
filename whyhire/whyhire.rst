@@ -10,6 +10,8 @@ Why You Should Hire Me
 
 .. image:: bravo.png
 
+Press Space, Arrow or PageDown key on keyboard to control...
+
 ----
 
 Deep Knowledge on Agile Development and Design
