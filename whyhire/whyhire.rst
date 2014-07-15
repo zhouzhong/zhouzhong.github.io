@@ -62,8 +62,8 @@ Fast Learner
 Thanks for your time
 ====================
 
-我的简历_, Resume_
-..............
+Resume_, 中文简历_
+..................
 
-.. _我的简历: http://zhouqianli.github.io/#!interview/resume-chs.md
-.. _Resume: http://zhouqianli.github.io/#!interview/resume-eng.md
+.. _Resume: http://zhouzhong.github.io/#!index.md
+.. _中文简历: http://zhouzhong.github.io/#!resume-chs.md
