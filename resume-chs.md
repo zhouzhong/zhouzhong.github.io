@@ -1,4 +1,6 @@
 #周重
+[PDF中文](resume-chs.pdf)  |   [Docx中文](resume-chs.docx)
+
 ## 软件设计师, 程序员, 测试工程师, 硕士学历
    * `2011.5~` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - 高级测试工程师 & 项目组长 @ Microsoft: SQL Server, Master Data Services （外包） 

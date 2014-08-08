@@ -1,4 +1,6 @@
 #Zhou Zhong
+[PDF Version](resume.pdf)  |   [Docx Version](resume.docx)
+
 ## Software Designer, Developer, Quality Engineer with Master Degree
    * `2011.5~Present` - Tech Yahoo, Software Quality Eng, Sr @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - Senior Software Development Engineer in Test & QA Lead @ Microsoft: SQL Server, Master Data Services [Vendor] 
