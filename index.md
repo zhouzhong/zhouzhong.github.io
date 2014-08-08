@@ -1,6 +1,6 @@
 #Zhou Zhong
 ## Software Designer, Developer, Quality Engineer with Master Degree
-   * `2011.5~2014.5` - Tech Yahoo, Software Quality Eng, Sr @ Yahoo!: Ads Targeting & Personalization User Profile Platform
+   * `2011.5~Present` - Tech Yahoo, Software Quality Eng, Sr @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - Senior Software Development Engineer in Test & QA Lead @ Microsoft: SQL Server, Master Data Services [Vendor] 
    * `2008.9~2009.9` - Software Development Engineer @ Microsoft: Office Communication Service [Vendor]
    * `2007.10~2008.9`- Software Development Engineer @ Myspace
@@ -39,7 +39,7 @@ Note: more details please visit  [why you should hire me](whyhire/out/index.html
    * Yahoo
      - `Designer` `Dev` Yet Another Pipeline Builder(HCatalog, Hive)
      - `Dev`Active Reach Report(Hadoop)
-     - `Designer` `Dev` `Tester`Targeting API(Web Service)
+     - `Designer` `Dev` `Tester`Targeting API(Web Service, DMP)
      - `Tester`Centralized Targeting Workbench(Java, Selenium)
      - `Tester`Categorization Tool/ETL(Perl, Java, Selenium)
      - `Tester`Targeting DB consolidation(Oracle)

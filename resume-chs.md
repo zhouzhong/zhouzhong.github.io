@@ -1,6 +1,6 @@
 #周重
 ## 软件设计师, 程序员, 测试工程师, 硕士学历
-   * `2011.5~2014.5` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
+   * `2011.5~` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - 高级测试工程师 & 项目组长 @ Microsoft: SQL Server, Master Data Services （外包） 
    * `2008.9~2009.9` - 开发工程师 @ Microsoft: Office Communication Service （外包）
    * `2007.10~2008.9`- 开发工程师 @ Myspace
@@ -36,7 +36,7 @@ Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
    * Yahoo
      - `设计` `开发` Yet Another Pipeline Builder(HCatalog, Hive)
      - `开发`Active Reach Report(Hadoop)
-     - `设计` `开发` `测试`Targeting API(Web Service)
+     - `设计` `开发` `测试`Targeting API(Web Service, DMP的一部分)
      - `测试`Centralized Targeting Workbench(Java, Selenium)
      - `测试`Categorization Tool/ETL(Perl, Java, Selenium)
      - `测试`Targeting DB consolidation(Oracle)
