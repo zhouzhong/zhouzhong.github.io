@@ -2,7 +2,8 @@
 [PDF中文](resume-chs.pdf)  |   [Docx中文](resume-chs.docx)
 
 ## 软件设计师, 程序员, 测试工程师, 硕士学历
-   * `2011.5~` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
+   * `2014.8~` - 技术专家 @ 阿里巴巴： 阿里妈妈广告事业部
+   * `2011.5~2014.5` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - 高级测试工程师 & 项目组长 @ Microsoft: SQL Server, Master Data Services （外包） 
    * `2008.9~2009.9` - 开发工程师 @ Microsoft: Office Communication Service （外包）
    * `2007.10~2008.9`- 开发工程师 @ Myspace
