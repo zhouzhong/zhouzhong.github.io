@@ -53,6 +53,5 @@ Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
      - `开发`User Profile (ASP.NET)
      
 ## 联系信息
-   * 手机: +86 158 1091 3508
-   * Skype: zhjql@msn.com
-   * 邮箱: zhouqianli@gmail.com
+   * 手机: +86 186 0046 4446
+   * 邮箱: zhjql@msn.com

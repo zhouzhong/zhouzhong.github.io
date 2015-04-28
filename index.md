@@ -56,6 +56,5 @@ Note: more details please visit  [why you should hire me](whyhire/out/index.html
      - `Dev`User Profile (ASP.NET)
    
 ## Contact
-   * Phone: +86 158 1091 3508
-   * Skype: zhjql@msn.com
-   * Email: zhouqianli@gmail.com
+   * Phone: +86 186 0046 4446
+   * Email: zhjql@msn.com
