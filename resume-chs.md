@@ -36,6 +36,15 @@ Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
    * @Microsoft, 利用WTT和PowerShell优化了build->unit test->ReadyToGo->E2E test运行框架，将其所需时间从 **3天缩短到0.5天**。
 
 ## 项目经历
+   * Alibaba
+     - Discount 3 system
+     - Anti-fraud rule engine V1(Refactoring, realtime+offline): Support Hadoop/ODPS/Storm
+     - Anti-fraud rule engine V2(Design, realtime+offline+local): as common MRR framework support ODPS/Storm/Spark
+     - Detector migration to ODPS
+     - Fense 2
+     - Node based click server
+     - Mobile App buried point spec
+     - 团队敏捷化、规范化
    * Yahoo
      - `设计` `开发` Yet Another Pipeline Builder(HCatalog, Hive)
      - `开发`Active Reach Report(Hadoop)

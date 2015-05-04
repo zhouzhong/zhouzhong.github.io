@@ -39,6 +39,15 @@ Note: more details please visit  [why you should hire me](whyhire/out/index.html
    * @Microsoft, optimized build->unit test->ReadyToGo->E2E test infrastructure by WTT and PowerShell which reduce the running process from **3 days to 0.5 day**.
    
 ## Projects
+   * Alibaba
+     - Discount 3 system
+     - Anti-fraud rule engine V1(Refactoring, realtime+offline): Support Hadoop/ODPS/Storm
+     - Anti-fraud rule engine V2(Design, realtime+offline+local): as common MRR framework support ODPS/Storm/Spark
+     - Detector migration to ODPS
+     - Fense 2
+     - Node based click server
+     - Mobile App buried point spec
+     - Build agile team and documentations
    * Yahoo
      - `Designer` `Dev` Yet Another Pipeline Builder(HCatalog, Hive)
      - `Dev`Active Reach Report(Hadoop)
