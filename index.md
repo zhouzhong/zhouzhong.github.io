@@ -17,12 +17,7 @@
    * Technologies: MRM, Storm, ODPS, MQ, HBase, Hive, HCatalog,  Servlet, Tomcat, Jersey, Oracle, Selenium, Git, Maven, Gradle, WCF, WF, AppFabric, PowerShell
 
 ## About Me
-Internationally experienced Engineering Software designing and testing with
-8 years professional experience driving software engineering projects through
-  agile software development life cycles.
-
-Contributor to all aspects of the software design and delivery phase, including project
-definition, documentation, coding, testing and delivery of software engineering projects.
+Internationally experienced Engineering Software designing and testing with 8 years professional experience driving software engineering projects through agile software development life cycles.  Contributor to all aspects of the software design and delivery phase, including project definition, documentation, coding, testing and delivery of software engineering projects.
 
 Note: more details please visit  [why you should hire me](whyhire/out/index.html)
 

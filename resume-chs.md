@@ -17,9 +17,7 @@
    * 技术: MRM, Storm, ODPS, MQ, HBase, Hive, HCatalog,  Servlet, Tomcat, Jersey, Oracle, Selenium, Git, Maven, Gradle, WCF, WF, AppFabric, PowerShell
 
 ## 关于我
-具备丰富外企工作经验的软件架构设计师、程序员和测试工程师。8年专业软件开发经验。洞悉敏捷开发方法和流程，并能在实施阶段持续创新。
-
-在实际工作中领导从软件设计到交付的全部流程。
+具备丰富外企工作经验的软件架构设计师、程序员和测试工程师。8年专业软件开发经验。洞悉敏捷开发方法和流程，并能在实施阶段持续创新。在实际工作中领导从软件设计到交付的全部流程。
 
 Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
 
