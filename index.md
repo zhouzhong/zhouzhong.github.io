@@ -59,4 +59,4 @@ Note: more details please visit  [why you should hire me](whyhire/out/index.html
    
 ## Contact
    * Phone: +86 186 0046 4446
-   * Email: zhjql@msn.com
+   * Email: zhou-zhong@outlook.com

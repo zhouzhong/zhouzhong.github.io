@@ -59,4 +59,4 @@ Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
      
 ## 联系信息
    * 手机: +86 186 0046 4446
-   * 邮箱: zhjql@msn.com
+   * 邮箱: zhou-zhong@outlook.com
