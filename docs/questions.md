@@ -1,4 +1,5 @@
 # Startup
+note: file issue on [here](https://github.com/zhouzhong/zhouzhong.github.io/issues/new).
 
 ## Questions
 ### 你们公司将要做什么？
