@@ -6,7 +6,8 @@
 
 [Why you should hire me](whyhire/out/index.html)
 
-[Misc]
-  * [Questions](docs/index.md)
+[Startup]()
+
+  * [Questions](docs/questions.md)
 
 [gimmick:theme](flatly)
