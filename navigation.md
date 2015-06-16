@@ -6,4 +6,7 @@
 
 [Why you should hire me](whyhire/out/index.html)
 
-[gimmick:theme](spacelab)
+[Misc]
+  * [Questions](docs/index.md)
+
+[gimmick:theme](flatly)
