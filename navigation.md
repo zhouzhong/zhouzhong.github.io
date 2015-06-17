@@ -9,5 +9,7 @@
 [Startup]()
 
   * [Questions](docs/questions.md)
+  
+  * [Market Survey](docs/market-survey.md)
 
 [gimmick:theme](flatly)
