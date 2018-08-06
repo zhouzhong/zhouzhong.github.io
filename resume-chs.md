@@ -1,8 +1,9 @@
 #周重
 [PDF中文](resume-chs.pdf)  |   [Docx中文](resume-chs.docx)
 
-## 工程师, 硕士学历
-   * `2014.8~` - 技术专家 @ 阿里巴巴： 阿里妈妈广告事业部
+## 管理者, 工程师, 硕士学历
+   * `2015.8~2018.5` - 高级技术专家，经理 @ 猎豹移动
+   * `2014.8~2015.7` - 高级技术专家 @ 阿里巴巴： 阿里妈妈广告事业部
    * `2011.5~2014.5` - 高级工程师 @ Yahoo!: Ads Targeting & Personalization User Profile Platform
    * `2009.9~2011.5` - 高级测试工程师 & 项目组长 @ Microsoft: SQL Server, Master Data Services
    * `2008.9~2009.9` - 开发工程师 @ Microsoft: Office Communication Service
@@ -14,7 +15,7 @@
    * 专长: Digital Advertisement(SSP/DSP/DMP), Anti-abuse/anti-fraud, Anatomy Detection, Personalization and Targeting System, Data Mining, Cloud Computing
    * 精通: Infrastructure Design, Agile Development
    * 语言: Java, Scala, C#
-   * 技术: MRM, Storm, ODPS, MQ, HBase, Hive, HCatalog,  Servlet, Tomcat, Jersey, Oracle, Selenium, Git, Maven, Gradle, WCF, WF, AppFabric, PowerShell
+   * 技术: Flink, Spark, ElasticSearch, ScyllaDB, Docker, Rancher, SystemD, AWS, Jenkins, Drone, CoreOS, Druid, NSQ, Kafka, MRM, Storm, ODPS, MQ, HBase, Hive, HCatalog,  Servlet, Tomcat, Jersey, Oracle, Selenium, Git, Maven, Gradle, WCF, WF, AppFabric, PowerShell
 
 ## 关于我
 具备丰富外企工作经验的软件架构设计师、程序员和测试工程师。8年专业软件开发经验。洞悉敏捷开发方法和流程，并能在实施阶段持续创新。在实际工作中领导从软件设计到交付的全部流程。
@@ -22,6 +23,8 @@
 Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
 
 ## 成就
+   * @猎豹移动，管理23人的团队进行大数据平台和在线广告系统开发。
+   * @猎豹移动，作为主程序员开发了新的大数据平台系统。在提升10倍效率的情况下，将成本缩减为原系统的7%。
    * @阿里巴巴，带领团队从作坊式开发进入敏捷开发流程。重构项目代码，梳理文档并提高自动化程度。将单次发布时间从10天缩短为一天。
    * @阿里巴巴，作为架构师和主程序员设计并实现了反作弊系统，包括规则引擎DSL，异常检测和参数自动学习机制。
    * @Yahoo!, 由于对软件敏捷开发流程以及网络测试框架开发方面的卓越工作，仅用 **1.5**年时间就从IC3升职至 **IC4**。
@@ -36,19 +39,22 @@ Note: 更多信息请访问 [why you should hire me](whyhire/out/index.html)
    * @Microsoft, 利用WTT和PowerShell优化了build->unit test->ReadyToGo->E2E test运行框架，将其所需时间从 **3天缩短到0.5天**。
 
 ## 项目经历
-   * Alibaba
+   * 猎豹移动
+     - 大数据平台系统(Go, Flink, Spark, Docker, Rancher, RancherOS, AWS/IDC)
+     - 广告系统(Java, NodeJS, Kafka, Spark, CoreOS, systemd AWS/IDC)
+   * 阿里妈妈
      - 反作弊防御系统 (Java, Scala, Storm, ODPS, Mvel, Antlr)
      - 实时折扣系统 (Java, Groovy, ODPS, Storm)
      - 无线应用埋点系统
      - 登月项目
-   * Yahoo
+   * 雅虎背景研究院
      - Yet Another Pipeline Builder(HCatalog, Hive)
      - Active Reach Report(Hadoop)
      - Targeting API(Web Service, DMP的一部分)
      - Centralized Targeting Workbench(Java, Selenium)
      - Categorization Tool/ETL(Perl, Java, Selenium)
      - Targeting DB consolidation(Oracle)
-   * Microsoft
+   * 微软
      - Master Data Services(C#, SQL Server, PowerShell)
      - Office Communication Service, Milan Wave 14(C#, WF)
      - Client Center(WCF)
